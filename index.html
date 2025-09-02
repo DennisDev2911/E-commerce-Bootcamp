@@ -1,0 +1,100 @@
+<!DOCTYPE html><!--Quer dizer que esta usando a versão mais nova do html-->
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+    <link rel="stylesheet" href="style.css">
+    <title>E-commerce - DevClub</title>
+</head>
+
+<body>
+
+    <!-- CAIXA
+        CABEÇALHO - header
+        MENU - nav
+        CONTEÚDO - main
+        RODAPÉ - footer
+        GENÉRICA - div
+    -->
+    <header>
+        <div class="logo">
+            <i class="fa-solid fa-bolt"></i>
+            <h1>TechStore</h1>
+        </div>
+
+        <div class="container-busca">
+            <input placeholder="Pesquisar produtos" class="input-pesquisa">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+    </header>
+
+    <div class="container-categorias">
+        <nav>
+            <button class="botão-categorias ativo" data-categoria="todos">
+                <i class="fa-solid fa-border-all"></i>
+                Todos
+            </button>
+
+            <button class="botão-categorias" data-categoria="smartphones">
+                <i class="fa-solid fa-mobile-retro"></i>
+                Smartthphones
+            </button>
+
+            <button class="botão-categorias" data-categoria="laptops">
+                <i class="fa-solid fa-laptop"></i>
+                Notebooks
+            </button>
+
+            <button class="botão-categorias" data-categoria="headphones">
+                <i class="fa-solid fa-headphones-simple"></i>
+                Fones
+            </button>
+
+            <button class="botão-categorias" data-categoria="accessories">
+                <i class="fa-solid fa-keyboard"></i>
+                Acessórios
+            </button>
+
+            <button class="botão-categorias" data-categoria="smartwatch">
+                <i class="fa-solid fa-clock"></i>
+                Smarthwatches
+            </button>
+        </nav>
+    </div>
+
+    <div class="secao-hero">
+        <h2>Black friday Antecipado!</h2>
+        <p>Até 50% de desconto em produtos selecionados</p>
+    </div>
+
+    <div class="produtos">
+
+        <div class="produtos-container">
+            <div class="cartao-produto">
+                <img src="" alt="">
+                <div class="info-produto">
+                    <h3 class="nome-produto"></h3>
+                    <p class="descricao-produto"></p>
+                    <p class="preco-produto"></p>
+                    <button class="botao-produto">ver detalhes</button>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <footer>
+        <p>2026 - TechStore - Todos os direitos reservados</p>
+    </footer>
+
+</body>
+<script src="scripts.js">
+
+</script>
+
+</html>
