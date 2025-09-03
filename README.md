@@ -16,8 +16,29 @@ O JavaScript adiciona dinamismo e interatividade, permitindo busca de produtos, 
 
 ## 📔 Conhecimentos abordados
 
-- [x] Uso semântico do HTML
-- [x] Efeitos com a propriedade `transform` do css
+  1) O que vamos fazer
+
+     [x] Colocar os produtos na tela
+     [x] saber quem são os produtos
+     [x] Onde colocar os produtos
+     [x] Colocar os produtos na Tela
+     [x] Estilizar os produtos
+
+  3) Filtrar por categoria
+     
+      [x] Quem são os botões para selecionar a categoria
+      [x] Quando um dos botões ali foram clicados
+      [x] Qual botão foi clicado
+      [x] Filtrar os produtos daquela categoria
+      [x] Mostrar na tela, SOMENTE os produtos filtrados
+       
+  4) Filtrar por nome
+
+      [x] Quem é o input 
+      [x] Quando digitou algo no imput
+      [x] O que foi digitado
+      [x] Filtar os produtos de acordo com o que foi digitado
+      [x] Deixar só os produtos filtrados na tela
 
 
 ## 📝 Tema de casa
