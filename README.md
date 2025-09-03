@@ -1,10 +1,12 @@
 <h1 align="center">
-  CARROSSEL SAUDÁVEL
+  E-COMMERCE
 </h1>
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar um projeto de **CARROSSEL SAUDÁVEL** ao usar _HTML_ _CSS_ e _JAVASCRIPT_.
+Este projeto de e-commerce foi desenvolvido com HTML, CSS e JavaScript, apresentando um layout moderno e responsivo para diferentes dispositivos.
+Conta com barra de navegação por categorias, vitrine de produtos com imagens, preços e botões interativos.
+O JavaScript adiciona dinamismo e interatividade, permitindo busca de produtos, filtros de categorias e botões de detalhes que melhoram a experiência do usuário.
 
 ## 🚀 Tecnologias
 
