@@ -46,6 +46,5 @@ O JavaScript adiciona dinamismo e interatividade, permitindo busca de produtos, 
 - [ ] Criar responsividade
 - [ ] Adicionar efeito de hover nos botões
 
-## 📺 Tutorial no Youtube
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">Bootcamp DevClub</a></h2>
 <img src="https://github.com/DennisDev2911/E-commerce-Bootcamp/blob/main/E-commerce.JPG?raw=true">
